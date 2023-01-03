@@ -1,0 +1,16 @@
+.month{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: auto;
+}
+.month select{
+    outline: none;
+}
+#month{
+    margin: 10px;
+}
