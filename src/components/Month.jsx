@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import "./month.css"
-import "./singlemonth.css"
+
 function Month() {
     const [value, setValue] = useState(0);
 

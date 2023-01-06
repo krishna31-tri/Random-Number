@@ -14,3 +14,22 @@
 #month{
     margin: 10px;
 }
+.singlemonth{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.singlemonth input{
+    outline: none;
+}
+.cal{
+    margin: 10px;
+    align-self: flex-end;
+    margin-right: 0;
+}
+.reset{
+    margin: 10px;
+    align-self: flex-end;
+}
